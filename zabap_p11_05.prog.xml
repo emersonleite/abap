@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <PROGDIR>
+  <NAME>ZABAP_P11_05</NAME>
+  <STATE>A</STATE>
+  <SQLX></SQLX>
+  <EDTX></EDTX>
+  <VARCL>X</VARCL>
+  <DBAPL></DBAPL>
+  <DBNA></DBNA>
+  <CLAS></CLAS>
+  <TYPE></TYPE>
+  <OCCURS></OCCURS>
+  <SUBC>1</SUBC>
+  <APPL></APPL>
+  <SECU></SECU>
+  <CNAM></CNAM>
+  <CDAT>00000000</CDAT>
+  <UNAM></UNAM>
+  <UDAT>00000000</UDAT>
+  <VERN></VERN>
+  <LEVL></LEVL>
+  <RSTAT></RSTAT>
+  <RMAND></RMAND>
+  <RLOAD>E</RLOAD>
+  <FIXPT>X</FIXPT>
+  <SSET></SSET>
+  <SDATE>00000000</SDATE>
+  <STIME></STIME>
+  <IDATE>00000000</IDATE>
+  <ITIME></ITIME>
+  <LDBNAME></LDBNAME>
+  <UCCHECK>X</UCCHECK>
+ </PROGDIR>
+ <RSMPE_ADM>
+  <ACTCODE></ACTCODE>
+  <MENCODE></MENCODE>
+  <PFKCODE></PFKCODE>
+  <DEFAULTACT></DEFAULTACT>
+  <DEFAULTPFK></DEFAULTPFK>
+  <MOD_LANGU></MOD_LANGU>
+ </RSMPE_ADM>
+ <RSMPE_STAT_TABLE/>
+ <RSMPE_FUNT_TABLE/>
+ <RSMPE_MEN_TABLE/>
+ <RSMPE_MNLT_TABLE/>
+ <RSMPE_ACT_TABLE/>
+ <RSMPE_BUT_TABLE/>
+ <RSMPE_PFK_TABLE/>
+ <RSMPE_STAF_TABLE/>
+ <RSMPE_ATRT_TABLE/>
+ <RSMPE_TITT_TABLE/>
+ <RSMPE_BUTS_TABLE/>
+ <TEXTPOOL_TABLE>
+  <TEXTPOOL>
+   <ID>H</ID>
+   <KEY>001</KEY>
+   <ENTRY></ENTRY>
+   <LENGTH>0 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>H</ID>
+   <KEY>002</KEY>
+   <ENTRY></ENTRY>
+   <LENGTH>0 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>H</ID>
+   <KEY>003</KEY>
+   <ENTRY>Cia  Num.   Data</ENTRY>
+   <LENGTH>16 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>H</ID>
+   <KEY>004</KEY>
+   <ENTRY>Aer. Vôo   Do Vôo     xxxxx      yyyyyy  % Ocup.</ENTRY>
+   <LENGTH>48 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>I</ID>
+   <KEY>001</KEY>
+   <ENTRY>Informe Abaixo</ENTRY>
+   <LENGTH>14 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>I</ID>
+   <KEY>002</KEY>
+   <ENTRY>Opções</ENTRY>
+   <LENGTH>6 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>R</ID>
+   <KEY></KEY>
+   <ENTRY>Segundo Programa ABAP</ENTRY>
+   <LENGTH>21 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>S</ID>
+   <KEY>PA_CIA</KEY>
+   <ENTRY>D       .</ENTRY>
+   <LENGTH>15 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>S</ID>
+   <KEY>PA_PERC1</KEY>
+   <ENTRY>        Todos os % de Ocupação</ENTRY>
+   <LENGTH>30 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>S</ID>
+   <KEY>PA_PERC2</KEY>
+   <ENTRY>        Somente &gt; 50% de Ocupação</ENTRY>
+   <LENGTH>33 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>S</ID>
+   <KEY>PA_PERC3</KEY>
+   <ENTRY>        Somente &lt;= 50% de Ocupação</ENTRY>
+   <LENGTH>34 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>S</ID>
+   <KEY>SO_CON</KEY>
+   <ENTRY>D       .</ENTRY>
+   <LENGTH>25 </LENGTH>
+  </TEXTPOOL>
+  <TEXTPOOL>
+   <ID>T</ID>
+   <KEY></KEY>
+   <ENTRY>Relação de Vôos</ENTRY>
+   <LENGTH>15 </LENGTH>
+  </TEXTPOOL>
+ </TEXTPOOL_TABLE>
+</abapGit>

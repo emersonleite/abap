@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <T100A>
+  <ARBGB>ZCLASS_MESSAGE_03</ARBGB>
+  <MASTERLANG>E</MASTERLANG>
+  <APPLCLASS></APPLCLASS>
+  <RESPUSER></RESPUSER>
+  <LASTUSER></LASTUSER>
+  <LDATE>00000000</LDATE>
+  <LTIME>000000</LTIME>
+  <STEXT></STEXT>
+ </T100A>
+ <T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZCLASS_MESSAGE_03</ARBGB>
+   <MSGNR>000</MSGNR>
+   <TEXT>Essa mensagem é do tipo &amp; !</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZCLASS_MESSAGE_03</ARBGB>
+   <MSGNR>001</MSGNR>
+   <TEXT></TEXT>
+  </T100>
+ </T100>
+</abapGit>
