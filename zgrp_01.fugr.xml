@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <AREAT>Primeiro Modulo de Funções Criado</AREAT>
+ <TY_RS38L_INCL_TT>
+  <RS38L_INCL>
+   <FUNCNAME>Z_CALC_EXPO_01</FUNCNAME>
+   <INCLUDE>LZGRP_01U01</INCLUDE>
+  </RS38L_INCL>
+ </TY_RS38L_INCL_TT>
+ <RSO_T_OBJNM>
+  <SOBJ_NAME>LZGRP_01TOP</SOBJ_NAME>
+  <SOBJ_NAME>SAPLZGRP_01</SOBJ_NAME>
+ </RSO_T_OBJNM>
+</abapGit>

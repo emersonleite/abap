@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <TSTC>
+  <TCODE>ZHBT_02</TCODE>
+  <PGMNA>ZABAP_P01_02</PGMNA>
+  <DYPNO>1000</DYPNO>
+  <MENUE></MENUE>
+  <CINFO>80</CINFO>
+  <ARBGB></ARBGB>
+ </TSTC>
+ <TSTCC>
+  <TCODE>ZHBT_02</TCODE>
+  <S_WEBGUI></S_WEBGUI>
+  <S_WIN32></S_WIN32>
+  <S_PLATIN></S_PLATIN>
+  <S_SERVICE></S_SERVICE>
+  <S_PERVAS></S_PERVAS>
+  <S_DUMMY></S_DUMMY>
+  <S_DUMMY1></S_DUMMY1>
+  <S_DUMMY2></S_DUMMY2>
+ </TSTCC>
+ <TSTCT>
+  <SPRSL>E</SPRSL>
+  <TCODE>ZHBT_02</TCODE>
+  <TTEXT>Primeiro programa</TTEXT>
+ </TSTCT>
+</abapGit>

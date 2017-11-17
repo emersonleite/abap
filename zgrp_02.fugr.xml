@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <AREAT>Meu primeiro grupo de função</AREAT>
+ <TY_RS38L_INCL_TT>
+  <RS38L_INCL>
+   <FUNCNAME>Z_CALC_EXPO_02</FUNCNAME>
+   <INCLUDE>LZGRP_02U01</INCLUDE>
+  </RS38L_INCL>
+ </TY_RS38L_INCL_TT>
+ <RSO_T_OBJNM>
+  <SOBJ_NAME>LZGRP_02TOP</SOBJ_NAME>
+  <SOBJ_NAME>SAPLZGRP_02</SOBJ_NAME>
+ </RSO_T_OBJNM>
+</abapGit>

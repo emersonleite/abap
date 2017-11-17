@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <T100A>
+  <ARBGB>ZMSG</ARBGB>
+  <MASTERLANG>E</MASTERLANG>
+  <APPLCLASS></APPLCLASS>
+  <RESPUSER></RESPUSER>
+  <LASTUSER></LASTUSER>
+  <LDATE>00000000</LDATE>
+  <LTIME>000000</LTIME>
+  <STEXT>Classe de Mensagem da Academia de ABAP em Curitiba</STEXT>
+ </T100A>
+ <T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>000</MSGNR>
+   <TEXT>&amp; &amp; &amp; &amp;</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>001</MSGNR>
+   <TEXT>Operador &amp;, inválido</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>002</MSGNR>
+   <TEXT>Caro Usuário &amp;, pelo amor de Deus, não me faça divisão por ZERO</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>003</MSGNR>
+   <TEXT>O Resultado da sua árdoa operação é igual 1 ---&gt; &amp;</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>004</MSGNR>
+   <TEXT>Erro no cálculo da Exponencial, erro &amp;</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>005</MSGNR>
+   <TEXT>Erro &amp;. Expoente maior que 4.</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>006</MSGNR>
+   <TEXT>Exponencial não informado. Por favor entre com o valor do exponencial.</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>007</MSGNR>
+   <TEXT>Valor não informado!! Por favor entre com o valor 1.</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>008</MSGNR>
+   <TEXT>ERRO Desconhecido!!! Contate o Suporte!!</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>009</MSGNR>
+   <TEXT>Vôo não encontrado.</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>010</MSGNR>
+   <TEXT>ERRO Desconhecido!! Contacte o Suporte!!</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>011</MSGNR>
+   <TEXT>Vôo INEXISTENTE!! Tente novamente!!</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>012</MSGNR>
+   <TEXT>Caro usuário &amp;, você não possui autorização para consultar a Cia Aérea &amp;</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>998</MSGNR>
+   <TEXT>Procure o suporte. Erro &amp;!</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>999</MSGNR>
+   <TEXT>Caro usuário. Esse passageiro não existe. Erro &amp;!</TEXT>
+  </T100>
+ </T100>
+</abapGit>
