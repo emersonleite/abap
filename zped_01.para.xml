@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v0.2-alpha">
+ <TPARA>
+  <PARAMID>ZPED_01</PARAMID>
+  <PARTEXT></PARTEXT>
+ </TPARA>
+ <TPARAT>
+  <PARAMID>ZPED_01</PARAMID>
+  <SPRACHE>E</SPRACHE>
+  <PARTEXT>Pedido de Compras</PARTEXT>
+ </TPARAT>
+</abapGit>

@@ -92,6 +92,18 @@
   <T100>
    <SPRSL>E</SPRSL>
    <ARBGB>ZMSG</ARBGB>
+   <MSGNR>013</MSGNR>
+   <TEXT>Pedido &amp;, Não Cadastrado</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
+   <MSGNR>014</MSGNR>
+   <TEXT>Pedido &amp;, encontra-se bloqueado.</TEXT>
+  </T100>
+  <T100>
+   <SPRSL>E</SPRSL>
+   <ARBGB>ZMSG</ARBGB>
    <MSGNR>998</MSGNR>
    <TEXT>Procure o suporte. Erro &amp;!</TEXT>
   </T100>
