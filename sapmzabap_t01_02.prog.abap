@@ -15,3 +15,5 @@ INCLUDE MZABAP_T01_02TOP                        .    " global Data
 
 
 INCLUDE MZABAP_T01_02I01.
+
+INCLUDE MZABAP_T01_020O01.
